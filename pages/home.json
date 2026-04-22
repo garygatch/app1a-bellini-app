@@ -72,7 +72,12 @@
       "children": [],
       "comments": "",
       "type": "core-component",
-      "expressions": []
+      "expressions": [
+        {
+          "expression": "\"000\"",
+          "to": "separator"
+        }
+      ]
     }
   ]
 }
